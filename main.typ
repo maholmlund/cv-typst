@@ -96,6 +96,7 @@
         image("mail.svg"), link("mailto:john.doe@example.com"),
         image("world-www.svg"), link("https://example.com")[example.com],
         image("github.svg"), link("https://github.com/johndoe")[github.com/johndoe],
+        image("linkedin.svg"), link("https://linkedin.com/johndoe")[linkedin.com/johndoe],
         image("location.svg"), [Helsinki],
       )
     ]
